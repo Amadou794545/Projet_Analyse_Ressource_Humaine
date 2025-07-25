@@ -7,7 +7,19 @@ II-KPI's
 | KPI                          | Interprétation rapide                                    |
 | ---------------------------  | -------------------------------------------------------- |
 |      Total employés          | Effectif total de l’entreprise.                          |
-| Revenu mensuel moyen         |Revenu moyen des employés, toutes catégories confondues. |
+| Revenu mensuel moyen         |Revenu moyen des employés, toutes catégories confondues.  |
 |   Satisfaction moyenne       | Satisfaction globale des employés.                       |
 |    Performance moyenne       | Niveau de performance global des employés.               |
 |        Âge moyen             | Âge moyen de l’effectif.                                 |
+
+III-Analyse
+
+* Le département Sales a le revenu mensuel moyen le plus élevé (7k€), suivi par HR (6,7k€) et R&D (6,3k€).
+* Les Managers et Research Directors ont des revenus mensuels significativement plus élevés (17k€ et 16k€ respectivement).
+* Les rôles comme Research Scientist ou Healthcare Representative ont des revenus moyens autour de 8k€.
+* R&D regroupe la majorité des employés (961 personnes), suivi de Sales (446 personnes) et HR (quelques dizaines).
+* Les femmes sont légèrement moins représentées que les hommes, notamment dans le département R&D (379 femmes vs 582 hommes).
+* La majorité des employés viennent de Life Sciences (41,2%) et Medical (31,5%).
+* Le groupe 25-34 ans est majoritaire (554 employés), suivi de 35-44 ans (505 employés).
+* La proportion chute au-delà de 45 ans.
+* La satisfaction est plutôt homogène entre les rôles, avec une tendance générale vers une note 3/5.
